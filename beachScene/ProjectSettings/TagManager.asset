@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pick Up
+  - Ocean
+  - deepocean
+  - sand
+  - hard
+  - soft
   layers:
   - Default
   - TransparentFX
